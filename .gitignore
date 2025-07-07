@@ -1,0 +1,38 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Файлы среды/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Файлы конфигурации с секретами
+.env
+
+# Файлы результатов работы программы
+result.json
+result_*.json
+
+# Логи
+*.log
+
+# Файлы блокировки pip/uv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# (по желанию) временные PDF-файлы
+*.pdf
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
