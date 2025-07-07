@@ -71,7 +71,10 @@ python main.py
 Вы хотите сохранить результат? Y/N
 Результат сохранён в файл: result.json
 ```
-Для более точного ответа возможен следующий промт: summarize the text and make a list of advice in russian
+Для более точного ответа возможен следующий промт: 
+```
+summarize the text and make a list of advice in russian
+```
 
 ## Возможные ошибки
 - `Error: PDF file '...' does not exist` — файл не найден
